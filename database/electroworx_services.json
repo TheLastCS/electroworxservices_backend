@@ -1,0 +1,43 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"electroworx_services"},
+{"type":"table","name":"appointments","database":"electroworx_services","data":
+[
+{"id":"1","appType":"repair","user_id":"1","deleted_at":null,"created_at":"2021-12-12 19:43:27","updated_at":"2021-12-12 19:43:27","start":"2021-12-15 16:00:00","end":"2021-12-16 15:57:59","title":"New eveawwnt","allDay":"0","color":"#ea1e63"},
+{"id":"2","appType":"repair","user_id":"1","deleted_at":null,"created_at":"2021-12-12 19:44:00","updated_at":"2021-12-12 19:44:00","start":"2021-12-15 16:00:00","end":"2021-12-16 15:57:59","title":"New eeditveawwnt","allDay":"0","color":"#ea1e63"},
+{"id":"3","appType":"repair","user_id":"1","deleted_at":null,"created_at":"2021-12-12 19:47:58","updated_at":"2021-12-12 19:47:58","start":"2021-12-15 16:00:00","end":"2021-12-16 15:58:59","title":"Nssdsdasew event","allDay":"0","color":"#ea1e63"},
+{"id":"4","appType":"repair","user_id":"1","deleted_at":null,"created_at":"2021-12-12 19:48:16","updated_at":"2021-12-12 19:48:16","start":"2021-12-15 16:00:00","end":"2021-12-16 15:58:59","title":"Nssdsdaasasasasew event","allDay":"0","color":"#ea1e63"}
+]
+}
+,{"type":"table","name":"failed_jobs","database":"electroworx_services","data":
+[
+
+]
+}
+,{"type":"table","name":"migrations","database":"electroworx_services","data":
+[
+{"id":"1","migration":"2014_10_12_000000_create_users_table","batch":"1"},
+{"id":"2","migration":"2014_10_12_100000_create_password_resets_table","batch":"1"},
+{"id":"3","migration":"2019_08_19_000000_create_failed_jobs_table","batch":"1"},
+{"id":"4","migration":"2019_12_14_000001_create_personal_access_tokens_table","batch":"1"},
+{"id":"7","migration":"2021_12_10_084324_create_appointments_table","batch":"2"},
+{"id":"8","migration":"2021_12_12_170118_add_start_column_to_appointments_table","batch":"2"}
+]
+}
+,{"type":"table","name":"password_resets","database":"electroworx_services","data":
+[
+
+]
+}
+,{"type":"table","name":"personal_access_tokens","database":"electroworx_services","data":
+[
+
+]
+}
+,{"type":"table","name":"users","database":"electroworx_services","data":
+[
+{"id":"1","firstName":"wan","lastName":"two","email":"ther@the","email_verified_at":null,"phone":"12345678999","userType":"Admin","password":"$2y$10$F8lK7UpE9ek1OEm0Xzbgm.jKXn2zDxH4iYtwSGK7dd7e0jksli.nu","deleted_at":null,"remember_token":null,"created_at":"2021-12-11 15:01:37","updated_at":"2021-12-11 15:01:37"},
+{"id":"2","firstName":"ivana","lastName":"leonado","email":"iv@com","email_verified_at":null,"phone":"12345678923","userType":"Admin","password":"$2y$10$j.MXgtBvqBUK9jC\/nlmVG.HYXIsYMgYpgB1jGX5q79awqpTCGPQ9O","deleted_at":null,"remember_token":null,"created_at":"2021-12-12 06:44:00","updated_at":"2021-12-12 06:44:00"}
+]
+}
+]
